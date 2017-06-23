@@ -1,0 +1,25 @@
+{
+  "name": "mocha-mario-reporter",
+  "version": "1.0.0",
+  "description": "Mocha reporter with Mario sounds and ASCII effects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "mario",
+    "sounds",
+    "ascii",
+    "test",
+    "tests"
+  ],
+  "author": "Tom Tymczyszyn",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "path": "^0.12.7",
+    "play-sound": "^1.1.1"
+  }
+}
