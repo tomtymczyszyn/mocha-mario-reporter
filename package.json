@@ -1,6 +1,7 @@
 {
   "name": "mocha-mario-reporter",
   "version": "1.0.0",
+  "author": "Tom Tymczyszyn <tom.tymczyszyn@gmail.com>",
   "description": "Mocha reporter with Mario sounds and ASCII effects",
   "main": "index.js",
   "scripts": {
@@ -15,7 +16,14 @@
     "test",
     "tests"
   ],
-  "author": "Tom Tymczyszyn",
+  "repository" : { 
+    "type" : "git",
+    "url" : "git+https://github.com/tomtymczyszyn/mocha-mario-reporter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tomtymczyszyn/mocha-mario-reporter/issues"
+  },
+  "homepage": "https://github.com/tomtymczyszyn/mocha-mario-reporter#readme",
   "license": "ISC",
   "dependencies": {
     "mocha": "^3.4.2",
