@@ -1,6 +1,6 @@
 {
   "name": "mocha-mario-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Tom Tymczyszyn <tom.tymczyszyn@gmail.com>",
   "description": "Mocha reporter with Mario sounds and ASCII effects",
   "main": "index.js",
